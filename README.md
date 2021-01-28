@@ -2,7 +2,7 @@
 
 #### I'm a final year mechatronics engineering student passionate about programming and learning new technologies
 
-- 🔭 I’m currently working at **[LAPISCO](www.lapisco.ifce.edu.br)**
+- 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
 - 🌱 I’m currently learning **Dart/Flutter and other stuff**
 - 💡 I love new technologies
 - 💬 Ask me about **Python and Dart**
