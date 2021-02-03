@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hey there! I'm Fábio </h2>
 
-#### I'm a final year mechatronics engineering student passionate about programming and learning new technologies
+#### I'm a final year mechatronics engineering student at IFCE. In the past two years I've been working with computer vision and artificial intelligence applications, mainly applied to biomedical engineering, using python. I'm passionate about programming and learning new technologies.
 
 - 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
 - 🌱 I’m currently learning **Dart/Flutter and other stuff**
@@ -27,4 +27,4 @@
 
 ### :mailbox: How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-ximenes)
-[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.ximenes99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.ximenes99@gmail.com)
