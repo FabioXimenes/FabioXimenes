@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hey there! I'm Fábio </h2>
 
-#### I'm a final year mechatronics engineering student at IFCE. In the past two years I've been working with computer vision and artificial intelligence applications, mainly applied to biomedical engineering, using python. I'm passionate about programming and learning new technologies.
+#### I'm a final year Mechatronics Engineering student at IFCE. In the past two years I've been working with computer vision and artificial intelligence applications, mainly applied to biomedical engineering, using python. I'm passionate about programming and learning new technologies.
 
 - 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
 - 🌱 I’m currently learning **Dart/Flutter and other stuff**
@@ -13,7 +13,7 @@
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=33A6E8)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=33A6E8)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GrapQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;\
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;\
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
