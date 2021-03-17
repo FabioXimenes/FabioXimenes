@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
 - 🌱 I’m currently learning **Dart/Flutter and other stuff**
-- 💡 I love new technologies
 - 💬 Ask me about **Python and Dart**
 
 ### 🛠 &nbsp;Tech Stack
