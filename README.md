@@ -2,9 +2,8 @@
 
 #### I started with C/C++ and Assembly for microcontrollers due to my bachelor's in Mechatronics Engineering. Still, I soon discovered Python and machine learning and started to dive into the machine learning world to learn about it. Since then, I have worked with many teams to deliver optimized applications and co-authored 6 research papers during my undergrad studies. Recently, I have been exploring cross-platform mobile development using Flutter, which I am really interested in. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
 
-- 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
-- 🌱 I’m currently learning **Dart/Flutter and other stuff**
-- 💬 Ask me about **Python and Dart**
+- 🔭 I’m currently working at **[Beyond](https://www.imaginebeyond.com.br/)** as a Flutter consultant for **[BTG Pactual](https://www.btgpactual.com/)**
+- 💬 Ask me about **Flutter, Dart and Python**
 
 ### 🛠 &nbsp;Tech Stack
 
