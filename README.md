@@ -1,16 +1,16 @@
 <h2 align="center"> 👋 Hey there! I'm Fábio </h2>
 
-#### I started with C/C++ and Assembly for microcontrollers due to my bachelor's in Mechatronics Engineering. Still, I soon discovered Python and machine learning and started to dive into the machine learning world to learn about it. Since then, I have worked with many teams to deliver optimized applications and co-authored 6 research papers during my undergrad studies. Recently, I have been exploring cross-platform mobile development using Flutter, which I am really interested in. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
+#### I am a software developer with 3 years of experience working with different technologies ranging from computer vision to mobile development. Currently focused on mobile development using Flutter to create apps for Android and iOS. I've also worked on several projects using python with a focus on computer vision. During my undergraduate studies I co-authored 6 articles published in international journals focusing on biomedical engineering, machine learning and image feature extraction. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
 
 - 🔭 I’m currently working at **[Beyond](https://www.imaginebeyond.com.br/)** as a Flutter consultant for **[BTG Pactual](https://www.btgpactual.com/)**
 - 💬 Ask me about **Flutter, Dart and Python**
 
 ### 🛠 &nbsp;Tech Stack
 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=33A6E8)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=33A6E8)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=33A6E8)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=33A6E8)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;\
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
