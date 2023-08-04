@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hey there! I'm Fábio </h2>
 
-#### I am a software developer with 3 years of experience working with different technologies ranging from computer vision to mobile development. Currently focused on mobile development using Flutter to create apps for Android and iOS. I've also worked on several projects using python with a focus on computer vision. During my undergraduate studies I co-authored 6 articles published in international journals focusing on biomedical engineering, machine learning and image feature extraction. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
+#### I am a software developer with 4 years of experience working with different technologies ranging from computer vision to mobile development. Currently focused on mobile development using Flutter to create apps for Android and iOS. I've also worked on several projects using python with a focus on computer vision. During my undergraduate studies I co-authored 6 articles published in international journals focusing on biomedical engineering, machine learning and image feature extraction. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
 
 - 🔭 I’m currently working at **[BTG Pactual](https://www.btgpactual.com/)**;
 - 💬 Ask me about **Flutter, Dart and Python**
