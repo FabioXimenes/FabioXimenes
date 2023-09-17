@@ -2,17 +2,17 @@
 
 #### I am a software developer with 4 years of experience working with different technologies ranging from computer vision to mobile development. Currently focused on mobile development using Flutter to create apps for Android and iOS. I've also worked on several projects using python with a focus on computer vision. During my undergraduate studies I co-authored 6 articles published in international journals focusing on biomedical engineering, machine learning and image feature extraction. I am eager to learn about new technologies, their impacts and willing to work with cross-functional teams.
 
-- 🔭 I’m currently working at **[BTG Pactual](https://www.btgpactual.com/)**;
-- 💬 Ask me about **Flutter, Dart and Python**
+- 🔭 I’m currently working at **[Superformula](https://www.superformula.com)**;
+- 💬 Ask me about **Flutter and Dart**
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=33A6E8)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=33A6E8)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;\
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
